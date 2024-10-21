@@ -12,15 +12,10 @@ Here are some ideas to get you  started:
 - 📫 How to reach me: ...
 -->
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hello&desc=I'm%20SeolBin&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=seolbb's%20Github!&fontSize=60" />
 
 <div align=center>
   
-<!--방문자수-->
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseolbb%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-<br/>  
-
 <!--소개-->
 ## Introduction :raised_hands:
 Hi, I am trying to become a nice developer😎
